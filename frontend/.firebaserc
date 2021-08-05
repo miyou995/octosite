@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "octopus-demo": "test-octopus",
+    "default": "test-octopus"
+  }
+}
